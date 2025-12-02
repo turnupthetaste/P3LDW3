@@ -41,27 +41,18 @@ src/
 
 ## 📦 Instalação
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/gerenciador-tarefas-categoria.git
-```
 
-2. Acesse a pasta do projeto:
-```bash
-cd gerenciador-tarefas-categoria
-```
-
-3. Instale as dependências:
+1. Instale as dependências:
 ```bash
 npm install
 ```
 
-4. Execute o projeto:
+2. Execute o projeto:
 ```bash
 npm run dev
 ```
 
-5. Acesse no navegador:
+3. Acesse no navegador:
 ```
 http://localhost:5173
 ```
